@@ -12,6 +12,6 @@ Blockscout provides a comprehensive, easy-to-use interface for users to view, co
 
 ![Blockscout Ethereum mainnet version](.gitbook/assets/ethereum-instance.png)
 
-While there are several explores available to blockchain projects, most are closed systems (ie Etherscan, Etherchain) which are not independently verifiable. Blockscout provides a much needed open-source alternative. As the multi-chain paradigm continues to take hold in both private and public settings, transparent tools are needed to analyze and validate transactions.
+While there are several explorers available to blockchain projects, most are closed systems (ie Etherscan, Etherchain) which are not independently verifiable. Blockscout provides a much needed open-source alternative. As the multi-chain paradigm continues to take hold in both private and public settings, transparent tools are needed to analyze and validate transactions.
 
 Information on the latest release and version history is available in the [Github repo](https://github.com/blockscout/blockscout/releases).
